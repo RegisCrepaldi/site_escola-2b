@@ -1,10 +1,17 @@
-body{ background-color: rgb(83, 245, 25);
-
+*{
+    margin: 0px;
+    padding: 0px;
 }
+body{ 
+    background-color: rgb(105, 243, 128);
 
+   
+    .cabeçalho{
+        background-color: rgb(8, 246, 35);
+        color: black;
+        display: flex;
+        justify-content: space-around;
+        padding: 24px;
 
-
-
-. cabeçalho{
-    background-color: blueviolet;
+    }
 }
